@@ -1,5 +1,7 @@
 # geo-rf-xgboost-catboost
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 Tree-based geochemical regression workflow with optional spatial partitioning.
 
 ## What changed
