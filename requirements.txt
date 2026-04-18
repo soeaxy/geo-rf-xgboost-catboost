@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+joblib
+matplotlib
+
+# Optional model backends
+xgboost
+catboost
+
+# Optional spatial workflow
+geopandas
